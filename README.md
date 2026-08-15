@@ -1,3 +1,4 @@
+
 # Manejo de Excepciones en Python
 
 Proyecto de la actividad GA1-220501096-01-AA1-EV05, donde se estudia y
@@ -53,7 +54,7 @@ Al final, un bloque `finally` imprime siempre `"Operación finalizada"`,
 sin importar si hubo error o no.
 
 ## Ejemplos de ejecución
-
+<img width="1917" height="1017" alt="CAPTURA_EJECUCION" src="https://github.com/user-attachments/assets/e49b88bc-4ad8-4351-bc65-e426990d22cc" />
 
 
 
